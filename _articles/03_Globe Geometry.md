@@ -30,7 +30,7 @@ Almost all computer based landscape models use a square grid to represent an are
 
 The global subdivision scheme we use is the IcoSphere. This is a method of subdivision of a sphere based on Equilateral Triangles
 
-![An Icosphere](https://philliphamlyn.wordpress.com/wp-content/uploads/2025/10/image-2.png?w=300)
+![An Icosphere](/InstantVirtualWorlds/assets/images/icosphere.png)
 
 The advantages of this approach are
 - It is infinitely divisible
