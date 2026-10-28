@@ -1,6 +1,4 @@
-﻿# Instant Virtual Worlds
-
-## Goal
+﻿# Goal
 Create virtual worlds using only runtime generated parameters. 
 - No pre-baking of world geometry
 - No stutters, pauses
