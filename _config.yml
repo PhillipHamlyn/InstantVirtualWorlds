@@ -6,4 +6,12 @@ markdown: kramdown
 collections:
   articles:
     output: true
+    sort_by: title
     permalink: /articles/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: default
