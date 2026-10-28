@@ -1,4 +1,6 @@
-﻿# Technology Setup
+﻿---
+title: "Technology Setup"
+---
 
 ## Development Environment
 

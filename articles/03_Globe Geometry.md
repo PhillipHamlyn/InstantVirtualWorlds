@@ -1,4 +1,6 @@
-﻿# Globe Geometry
+﻿---
+title: "Globe Geometry"
+---
 
 ## Coordindate Systems
 

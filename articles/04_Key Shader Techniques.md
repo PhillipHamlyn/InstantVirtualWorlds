@@ -1,4 +1,6 @@
-﻿# Key Shader Techniques
+﻿---
+title: "Key Shader Techniques"
+---
 
 ## Threading
 The typical GPU has thousands of parallel threads available. In the rasterisation pipeline (drawing to a screen or other surface) the threads are used to calculate the color of sets of pixels. Since no pixel can influence the colour of another pixle the rasterization pathway is natrually suited to parallelization.

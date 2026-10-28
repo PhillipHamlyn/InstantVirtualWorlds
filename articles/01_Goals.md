@@ -1,4 +1,7 @@
-# Goal
+﻿---
+title: "Goal"
+---
+
 Create virtual worlds using only runtime generated parameters. 
 - No pre-baking of world geometry
 - No stutters, pauses
@@ -18,3 +21,6 @@ No game engine. This is a research project, not a game. The more I have to do my
 - Toroidal Model Map
 - Distance Fields
 - Urban Landscape Modelling
+
+
+
